@@ -30,7 +30,7 @@
 /web/sites/example.settings.local.php
 /web/sites/development.services.yml
 /web/themes/README.txt
-/web/vendor
+/vendor
 /web/.csslintrc
 /web/.editorconfig
 /web/.eslintignore
