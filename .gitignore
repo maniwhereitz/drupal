@@ -47,5 +47,6 @@
 /web/robots.txt
 /web/update.php
 /web/web.config
-/editorconfig
+/.editorconfig
 /.gitattributes
+/nbproject
